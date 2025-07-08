@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@splidejs/splide": "^4.1.4",
+    "epic-spinners": "^2.0.0"
+  }
+}
